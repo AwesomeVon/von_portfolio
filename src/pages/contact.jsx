@@ -24,8 +24,8 @@ function ContactPage({ location }) {
                         transition={{ delay: 1 }}
                         className="w-4/5 lg:w-1/2 text-center mt-10"
                     >
-                    {/*not but*/}
-                        As of now, I'm looking for any new job opportunities, 
+                    {/*not but As of now*/}
+                        Hi, I'm looking for any new job opportunities, 
                         my inbox is always open if you want to communicate 
                         with me. Hit me up if you have some question, want a 
                         collaboration or just play video games. I'll try to get 
