@@ -142,9 +142,9 @@ function AboutPage({ location }) {
                                         labels: [
                                             "Javascript",
                                             "Php",
+                                            "SQL",
                                             "C#",
-                                            "Typesript",
-                                            "dart",
+                                            "Typescript",
                                             "java"
                                         ],
                                         datasets: [
