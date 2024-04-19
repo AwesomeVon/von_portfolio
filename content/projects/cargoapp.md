@@ -2,7 +2,7 @@
 title: "Cargo Operations System"
 github: ""
 external: ""
-image: "https://drive.google.com/file/d/1ChEcjTslNb3GOzpOh_gbcCvyGCsqYQ9O"
+image: "https://drive.google.com/file/d/1rXUxk0vx5oUNzz-yokk4oSwRJjCZh5CL/view?usp=sharing"
 tech:
     - Php
     - Javascript
