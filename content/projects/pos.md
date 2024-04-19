@@ -2,7 +2,7 @@
 title: "Point of Sale System"
 github: ""
 external: ""
-image: "https://drive.google.com/uc?export=view&id=1YKGS7vxgOFf3sQahqVwRzLCMWITsYy64"
+image: "https://drive.google.com/file/d/1YKGS7vxgOFf3sQahqVwRzLCMWITsYy64"
 tech:
     - Php
     - Javascript
