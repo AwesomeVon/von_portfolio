@@ -2,7 +2,7 @@
 title: "Procurement And Inventory System"
 github: ""
 external: ""
-image: "https://drive.google.com/file/d/15JR5vvwLoB8LX3HP_gtXCCRbysldStFi/view"
+image: "https://drive.google.com/file/d/15JR5vvwLoB8LX3HP_gtXCCRbysldStFi"
 tech:
     - Php
     - Javascript
